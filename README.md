@@ -1,4 +1,5 @@
 **Sentiment Analysis using Machine Learning Model**
+==============================================================================================================================================================================================
 This project utilizes machine learning techniques to perform sentiment analysis on text data. The model is trained on a dataset obtained from Kaggle and is capable of predicting the sentiment (positive, negative, or neutral) of a given text input.
 
 **Overview**
